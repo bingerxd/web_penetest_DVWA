@@ -1,0 +1,11 @@
+uploads
+files
+config
+admin
+secrets
+backup
+auth
+bypass
+test
+authbypass
+vulnerabilities
